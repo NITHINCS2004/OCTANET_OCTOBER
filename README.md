@@ -1,5 +1,6 @@
 # Prerequisites
 1.A modern web browser (Chrome, Firefox, etc.)
+
 2.A local server environment (optional)
 # Technologies Used
 1.HTML
